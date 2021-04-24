@@ -11,9 +11,10 @@ Generate a simple portfolio for your work that will include:
 
 * Clone this repository to your local machine.
 * Open your terminal and cd into the portfolio-generator folder.
-* Run the command node app.js 
+* Run th command npm install in your terminal while in the root of the portfolio-generator folder. THis will install the appropiate node modules need to run the program.
+* Once the appropiate modules are installed, run the command node app.js to start the program.
 * Fill out the prompts in the command line.
-* Once completed index.html and style.css files will be created in the dist folder.
+* Once the prompts are completed, index.html and style.css files will be created in the dist folder.
 * You can now navigte to the dist folder and open index.html to see the generated portfolio. It will look something like this:
 
 
