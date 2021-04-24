@@ -17,11 +17,11 @@ Generate a simple portfolio for your work that will include:
 * Open your terminal and cd into the location you would like to clone the repository. 
 * Once there, run _git clone git@github.com:MAsuamah/portfolio-generator.git_ (if using SSH) OR _git clone https://github.com/MAsuamah/portfolio-generator.git_ (if using HTTPS)
 * cd into the portfolio-generator folder.
-* Run the command _npm install_ in your terminal while in the root of the portfolio-generator folder. This will install the appropiate node modules needed to run the program.
-* Once the appropiate modules are installed, run the command _node app.js_ to start the program.
+* Run the command _npm install_ in your terminal while in the root of the portfolio-generator folder. This will install the appropriate node modules needed to run the program.
+* Once the appropriate modules are installed, run the command _node app.js_ to start the program.
 * Fill out the prompts in the command line.
-* Once the prompts are completed, index.html and style.css files will be created in the dist folder in the portofolio-generator root.
-* You can now navigte to the dist folder and open index.html to see the generated portfolio. It will look something like this:
+* Once the prompts are completed, index.html and style.css files will be created in the dist folder in the portfolio-generator root.
+* You can now navigate to the dist folder and open index.html to see the generated portfolio. It will look something like this:
 
 
 ![image](https://user-images.githubusercontent.com/77217156/114327134-cc520080-9b05-11eb-9350-671d95acf937.png)
