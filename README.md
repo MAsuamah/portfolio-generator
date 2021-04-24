@@ -10,7 +10,7 @@ Generate a simple portfolio for your work that will include:
 ## How to Use
 
 * Visit https://github.com/MAsuamah/portfolio-generator
-* In the code tab of the repositry, click the green code button
+* In the code tab of the repository, click the green code button
 <img width="946" alt="Screen Shot 2021-04-24 at 4 03 47 PM" src="https://user-images.githubusercontent.com/77217156/115971474-ab7ea780-a516-11eb-8d0a-1441ef3427c9.png">
 
 * Copy the code (SSH or HTTPS).
