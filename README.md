@@ -15,7 +15,7 @@ Generate a simple portfolio for your work that will include:
 
 * Copy the code (SSH or HTTPS).
 * Open your terminal and cd into the location you would like to clone the repository. 
-* Once there, run _git clone git@github.com:MAsuamah/portfolio-generator.git_ (if using SSH) OR _git clone https://github.com/MAsuamah/portfolio-generator.git_ (if using HTTPS)
+* Once there, run `git clone git@github.com:MAsuamah/portfolio-generator.git` (if using SSH) OR `git clone https://github.com/MAsuamah/portfolio-generator.git` (if using HTTPS)
 * cd into the portfolio-generator folder.
 * Run the command _npm install_ in your terminal while in the root of the portfolio-generator folder. This will install the appropriate node modules needed to run the program.
 * Once the appropriate modules are installed, run the command _node app.js_ to start the program.
