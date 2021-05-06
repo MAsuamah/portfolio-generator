@@ -28,3 +28,9 @@ Generate a simple portfolio for your work that will include:
 
 ## Built With
 * Node.js
+
+## Contributors
+Michelle Asuamah
+
+## Contact
+If you would like to contact me you can reach me at michey.asmah21@gmail.com.
